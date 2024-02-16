@@ -9,3 +9,11 @@ This is further reinforced by the classification report below which shows unimpr
 
 ## Code
 All code is my own. Created with minimal troubleshooting on forums.
+
+# Evaluation Report
+
+![Alt text](best_plot.png)
+![Alt text](ada_plot.png)
+
+![Alt text](classification_report.png)
+![Alt text](ada_classification_report.png)
