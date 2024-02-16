@@ -11,9 +11,14 @@ This is further reinforced by the classification report below which shows unimpr
 All code is my own. Created with minimal troubleshooting on forums.
 
 # Evaluation Report
-
+Baseline Trading Algorithm Plot:
 ![Alt text](best_plot.png)
+
+Ada Boost Plot:
 ![Alt text](ada_plot.png)
 
+Baseline Trading Algoritm Report:
 ![Alt text](classification_report.png)
+
+Ada Boost Report:
 ![Alt text](ada_classification_report.png)
